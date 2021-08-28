@@ -39,19 +39,15 @@ Other Files:
 # Misc Notes
 
 ### Access Downloads through ubuntu
-
     /mnt/c/Users/stile/Downloads
 
 ### Eric's Github handle
-
     sdxl
 
 #### If WSL ever pulls this BS:
-
 > "VS Code Server for WSL closed unexpectedly."
 
-#### Go into Powershell and run:
-
+#### Go into Powershell and restart WSL:
     wsl --shutdown
     wsl
 

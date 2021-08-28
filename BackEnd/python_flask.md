@@ -4,12 +4,15 @@
 1. [Installing Packages](#installing-packages)
 2. [Python Notes](#python-notes)
     * [Run Unittest](#run-unittests)
-3. [Postgres](#postgres)
+3. [Flask Notes](#flask-notes)
+    * [Run Flask](#run-flask)
+    * [Blueprint](#blueprint)
+4. [Postgres Notes](#postgres)
     * [Start Server](#start-postgres-server)
     * [Init VENV](#init-venv)
     * [Activate VENV](#activate-venv)
     * [Run Flask](#run-flask)
-4. [Springboard Notes](#springboard-notes)
+5. [Springboard Notes](#springboard-notes)
 
 Other Files:
 1. [Node Express](./node_express)
@@ -42,6 +45,35 @@ Other Files:
 
 ---
 
+# Flask Notes
+
+#### Run Flask
+    flask run
+
+---
+# Blueprint
+Blueprint is a handy way to link files in python-flask
+
+#### ./app.py
+    from routes.route_file import routes_name
+
+    app = Flask(__name__)
+
+    app.register_blueprint(routes_name)
+
+#### ./routes/route_file.py
+    from flask import Blueprint, render_template
+
+    routes_name = Blueprint('routes_name', __name__)
+
+    @routes_name.route("/")
+    def rout_function():
+        """THis is a normal route"""
+
+        return render_template("index.html")
+
+---
+
 # Postgres
 
 #### Start Postgres server
@@ -53,9 +85,6 @@ Other Files:
 #### Activate VENV
     source venv/bin/activate
 
-#### Run Flask
-    flask run
-    
 ---
 
 # Springboard Notes
