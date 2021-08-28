@@ -32,5 +32,4 @@ Files To Choose From:
     * Misc Notes
 
 
-    [1]: ./BackEnd/python_flask
-    [1]: https://github.com/bubbster95/code-notes/blob/main/BackEnd/python_flask.md
+    [1]: ./BackEnd/python_flask.md
