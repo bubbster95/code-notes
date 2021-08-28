@@ -3,7 +3,7 @@
 There are a nubmer of files here to help recall the ins and outs of various coding languages. Some files simply have links to springboard lessons only to be used by Will Stiles. Others have specific code snippets of important topics.
 
 Files To Choose From:
-1. [Python Flask](./BackEnd/python_flask)
+1. [Python Flask][1]
     * Python
     * Flask
     * Object Oriented
@@ -30,3 +30,7 @@ Files To Choose From:
     * Various Import packages
     * Helpful Links
     * Misc Notes
+
+
+    [1]: ./BackEnd/python_flask
+    [1]: https://github.com/bubbster95/code-notes/blob/main/BackEnd/python_flask.md
