@@ -1,3 +1,6 @@
+[Py]: ./python_flask.md
+[SQL]: ./sql.md
+[CP]: ../copy_pasta.md
 # Node Express notes
 
 ### Table of Contents
@@ -12,9 +15,9 @@
 4. [Springboard Notes](#springboard-notes)
 
 Other Files:
-1. [Python Flask](./python_flask)
-2. [SQL](./sql)
-3. [Copy Pasta](../copy_pasta)
+1. [Python Flask][Py]
+2. [SQL][SQL]
+3. [Copy Pasta][CP]
 ---
 
 # Installing Packages

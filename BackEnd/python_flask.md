@@ -1,3 +1,7 @@
+[Node]: ./node_express.md
+[SQL]: ./sql.md
+[CP]: ../copy_pasta.md
+
 # Python Flask Notes
 
 ### Table of Contents
@@ -15,9 +19,9 @@
 5. [Springboard Notes](#springboard-notes)
 
 Other Files:
-1. [Node Express](./node_express)
-2. [SQL](./sql)
-3. [Copy Pasta](../copy_pasta)
+1. [Node Express][Node]
+2. [SQL][SQL]
+3. [Copy Pasta][CP]
 
 ---
 

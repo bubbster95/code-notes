@@ -1,3 +1,7 @@
+[Py]: ./BackEnd/python_flask.md
+[Node]: ./BackEnd/node_express.md
+[SQL]: ./BackEnd/sql.md
+
 # Copy Pasta
 
 Table of Contents:
@@ -6,9 +10,9 @@ Table of Contents:
 3. [Miscallanious Notes](#misc-notes)
 
 Other Files:
-1. #### [Python Flask](./BackEnd/python_flask)
-2. #### [Node Express](./BackEnd/node_express)
-3. #### [SQL](./BackEnd/sql)
+1. #### [Python Flask][Py]
+2. #### [Node Express][Node]
+3. #### [SQL][SQL]
 
 # Import Packages
 

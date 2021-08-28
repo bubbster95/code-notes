@@ -1,12 +1,16 @@
+[Py]: ./python_flask.md
+[Node]: ./node_express.md
+[CP]: ../copy_pasta.md
+
 # SQL SQLAlchemy notes
 
 ### Table of Contents
 1. [Springboard Notes](#springboard-notes)
 
 Other Files:
-1. [Python Flask](./python_flask)
-2. [Node Express](./node_express)
-3. [Copy Pasta](../copy_pasta)
+1. [Python Flask][Py]
+2. [Node Express][Node]
+3. [Copy Pasta][CP]
 
 ---
 
